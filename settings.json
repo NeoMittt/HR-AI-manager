@@ -1,6 +1,6 @@
 {
-  "telegram_token": "7809526448:AAGrkL3lQiOpxtOpEVN9A79pvXk9L3l7lmg",
-  "openrouter_api_key": "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",
+  "telegram_token": "",
+  "openrouter_api_key": "",
   "openrouter_model": "nvidia/nemotron-3-super-120b-a12b:free",
   "openrouter_free_models": [
     "nvidia/nemotron-3-super-120b-a12b:free",
